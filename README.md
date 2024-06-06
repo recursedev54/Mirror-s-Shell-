@@ -1,0 +1,3 @@
+use ChatShell as mock powershell
+use Shelly as ChatShell
+use the corpus .json it should show? i think...
